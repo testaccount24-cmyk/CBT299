@@ -1,0 +1,27 @@
+2025-04-04 07:28:35.784019 - Received CBT.V508.FILE299.PDS from FILE299.XMI 
+2025-04-04 07:28:35.785206 - Found $$$$NOTE.txt (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/$$$$NOTE
+2025-04-04 07:28:35.785353 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/$$$#DATE
+2025-04-04 07:28:35.785487 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/$$$DOC
+2025-04-04 07:28:35.785613 - Found $$DOC.txt (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/$$DOC
+2025-04-04 07:28:35.785734 - Found $$DOCHAL.eml (message/rfc822) in CBT.V508.FILE299.PDS, moved to PDS/$$DOCHAL
+2025-04-04 07:28:35.785850 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/$$NOTE1
+2025-04-04 07:28:35.785972 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/$$NOTE2
+2025-04-04 07:28:35.786086 - Found $$NOTE3.txt (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/$$NOTE3
+2025-04-04 07:28:35.786203 - Found $ASM.jcl (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/$ASM
+2025-04-04 07:28:35.786340 - Found $DTCNOTE.txt (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/$DTCNOTE
+2025-04-04 07:28:35.786466 - Found @FILE299.txt (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/@FILE299
+2025-04-04 07:28:35.786585 - Found JCLIEV90.jcl (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/JCLIEV90
+2025-04-04 07:28:35.786700 - Found JCLIFOX0.jcl (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/JCLIFOX0
+2025-04-04 07:28:35.787094 - Found LOADLIB.xmi (application/xmit) in CBT.V508.FILE299.PDS, moved to PDS/LOADLIB.xmi
+2025-04-04 07:28:35.797796 - Received SBGOLOB.TAPEMAP.LOADLIB from LOADLIB.xmi 
+2025-04-04 07:28:35.798220 - Found TAPEMAP.bin (application/octet-stream) in SBGOLOB.TAPEMAP.LOADLIB, moved to LOADLIB/TAPEMAP
+2025-04-04 07:28:35.798368 - Found TAPEMAPM.bin (application/octet-stream) in SBGOLOB.TAPEMAP.LOADLIB, moved to LOADLIB/TAPEMAPM
+2025-04-04 07:28:35.798510 - Found TAPEMAPX.bin (application/octet-stream) in SBGOLOB.TAPEMAP.LOADLIB, moved to LOADLIB/TAPEMAPX
+2025-04-04 07:28:35.798895 - Found LOADLIB#.jcl (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/LOADLIB#
+2025-04-04 07:28:35.799028 - Found MAPTEST.jcl (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/MAPTEST
+2025-04-04 07:28:35.799144 - Found PARMFLGS.txt (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/PARMFLGS
+2025-04-04 07:28:35.799313 - Found TAPEMAP.txt (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/TAPEMAP
+2025-04-04 07:28:35.799431 - Found TAPEMAP$.jcl (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/TAPEMAP$
+2025-04-04 07:28:35.799598 - Found TAPEMAPM.txt (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/TAPEMAPM
+2025-04-04 07:28:35.799776 - Found TAPEMAPO.txt (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/TAPEMAPO
+2025-04-04 07:28:35.799895 - Found X3480.txt (text/plain) in CBT.V508.FILE299.PDS, moved to PDS/X3480
